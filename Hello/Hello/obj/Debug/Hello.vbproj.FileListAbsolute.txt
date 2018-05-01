@@ -1,0 +1,12 @@
+C:\ALS-Source\Hello\Hello\bin\Debug\Hello.exe.config
+C:\ALS-Source\Hello\Hello\bin\Debug\Hello.exe
+C:\ALS-Source\Hello\Hello\bin\Debug\Hello.pdb
+C:\ALS-Source\Hello\Hello\bin\Debug\Hello.xml
+C:\ALS-Source\Hello\Hello\obj\Debug\Hello.vbprojResolveAssemblyReference.cache
+C:\ALS-Source\Hello\Hello\obj\Debug\Hello.Form1.resources
+C:\ALS-Source\Hello\Hello\obj\Debug\Hello.Resources.resources
+C:\ALS-Source\Hello\Hello\obj\Debug\Hello.vbproj.GenerateResource.Cache
+C:\ALS-Source\Hello\Hello\obj\Debug\Hello.vbproj.CoreCompileInputs.cache
+C:\ALS-Source\Hello\Hello\obj\Debug\Hello.exe
+C:\ALS-Source\Hello\Hello\obj\Debug\Hello.xml
+C:\ALS-Source\Hello\Hello\obj\Debug\Hello.pdb
